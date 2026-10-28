@@ -81,3 +81,4 @@ pytest tests/
 - Deterministic SQL generation for common patterns
 - Limited schema introspection in demo mode
 - CTEs allowed but complex ones need validation
+# Updated
